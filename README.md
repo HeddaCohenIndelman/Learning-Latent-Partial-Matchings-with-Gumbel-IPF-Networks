@@ -14,8 +14,8 @@ relaxations through the lens of biproportional fitting and introduce a new metri
 prediction shift. Our method's advantages are demonstrated in experimental results on the semantic keypoints partial matching task on the Pascal VOC, IMC-PT-SparseGM, and CUB2001 datasets.
 
 ## How to use this repository 
-We use unchanged peer methods implementations in the unified \href{https://github.com/Thinklab-SJTU/ThinkMatch}{ThinkMatch} project as much as possible. 
+We use unchanged peer methods implementations in the unified [ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch) project as much as possible. 
 
 ### Datasets 
-Datasets should be downloaded and organized as instructed in the \href{https://github.com/Thinklab-SJTU/ThinkMatch}{ThinkMatch} project. 
+Datasets should be downloaded and organized as instructed in the [ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch) project. 
 
