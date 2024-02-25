@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation of the AISTATS 2024 paper titled "Learning Latent Partial Matchings with Gumbel-IPF Networks".
 
-##Abstract- Learning to match discrete objects has been a central task in machine learning, often facilitated by a
+## Abstract- Learning to match discrete objects has been a central task in machine learning, often facilitated by a
 continuous relaxation of the matching structure.
 However, practical problems entail partial matchings due to missing correspondences, which pose difficulties to the one-to-one matching learning techniques that dominate the state-of-the-art. 
 This paper introduces Gumbel-IPF networks for learning latent partial matchings. 
