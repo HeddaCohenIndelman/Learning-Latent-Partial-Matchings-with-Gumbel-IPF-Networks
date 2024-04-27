@@ -12,6 +12,8 @@ We investigate the properties of common-practice
 relaxations through the lens of biproportional fitting and introduce a new metric, the empirical
 prediction shift. Our method's advantages are demonstrated in experimental results on the semantic keypoints partial matching task on the Pascal VOC, IMC-PT-SparseGM, and CUB2001 datasets.
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-latent-partial-matchings-with-gumbel/graph-matching-on-cub)](https://paperswithcode.com/sota/graph-matching-on-cub?p=learning-latent-partial-matchings-with-gumbel)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-latent-partial-matchings-with-gumbel/graph-matching-on-pascal-voc)](https://paperswithcode.com/sota/graph-matching-on-pascal-voc?p=learning-latent-partial-matchings-with-gumbel)
 ## How to use this repository 
 We use unchanged peer methods implementations in the unified [ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch) project as much as possible. 
 
